@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope">
+  <sys_scope action="INSERT_OR_UPDATE">
+    <name>Classic UI Field Change Trace</name>
+    <scope>x_classic_trace</scope>
+    <private>false</private>
+    <restrict_table_access>false</restrict_table_access>
+    <runtime_access_tracking>none</runtime_access_tracking>
+    <sys_class_name>sys_scope</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2026-02-24 00:00:00</sys_created_on>
+    <sys_id>6f8f6fd3db3e2010c8d4f5d51d9619b1</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_name>Classic UI Field Change Trace</sys_name>
+    <sys_package display_value="Classic UI Field Change Trace" source="x_classic_trace">6f8f6fd3db3e2010c8d4f5d51d9619b1</sys_package>
+    <sys_policy/>
+    <sys_scope display_value="Classic UI Field Change Trace">6f8f6fd3db3e2010c8d4f5d51d9619b1</sys_scope>
+    <sys_update_name>sys_scope_6f8f6fd3db3e2010c8d4f5d51d9619b1</sys_update_name>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2026-02-24 00:00:00</sys_updated_on>
+  </sys_scope>
+</record_update>

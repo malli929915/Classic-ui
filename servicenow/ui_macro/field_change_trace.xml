@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide">
+  <j:if test="${!empty(jvar_source_name)}">
+    <span class="label-description field-change-trace">
+      <i class="icon icon-script" title="${jvar_source_name}"/>
+      <a href="${jvar_source_url}" target="_blank">${jvar_source_name}</a>
+      <j:if test="${!empty(jvar_flow_path)}">
+        <span> (${jvar_flow_path})</span>
+      </j:if>
+    </span>
+  </j:if>
+</j:jelly>
